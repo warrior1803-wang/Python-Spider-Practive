@@ -1,0 +1,5 @@
+cmd ffmpeg -i "https://bwol-video-ufile.ebeiwai.com/4B47BA29B9E7C9519C33DC5901307461_720p.m3u8" -vcodec copy -acodec copy -absf aac_adtstoasc 10.mp4
+cmd ffmpeg -i "https://bwol-video-ufile.ebeiwai.com/5A4B527251EA9EF89C33DC5901307461_720p.m3u8" -vcodec copy -acodec copy -absf aac_adtstoasc 11.mp4
+cmd ffmpeg -i "https://bwol-video-ufile.ebeiwai.com/5052A4CA13E0CD489C33DC5901307461_720p.m3u8" -vcodec copy -acodec copy -absf aac_adtstoasc 12.mp4
+cmd ffmpeg -i "https://bwol-video-ufile.ebeiwai.com/89530F34C9368C319C33DC5901307461_720p.m3u8" -vcodec copy -acodec copy -absf aac_adtstoasc 13.mp4
+cmd ffmpeg -i "https://bwol-video-ufile.ebeiwai.com/830CF904EE6D61389C33DC5901307461_720p.m3u8" -vcodec copy -acodec copy -absf aac_adtstoasc 14.mp4
